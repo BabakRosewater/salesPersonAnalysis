@@ -1,9 +1,9 @@
- BO3421R                             CLARK HYUNDAI                           12/16/25  10:29:34
+ BO3421R                             CLARK HYUNDAI                           12/22/25  12:37:42
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
  ==============================================================================================================
  BCR - BROCK CROSS                                 Comm    No.       Avg      Total        Avg
  12/01/25 to             Units        Sales       Gross   Sales     Gross      Comm       Comm
- 12/16/25                 7.00    224754.00    10287.98      7    1469.71
+ 12/22/25                11.00    405201.00     8353.99     11     759.45
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/03/25    H7078A  20 RANGER   WESTPHAL, BRET WA   1.0 N  30572.00     385.51
@@ -13,12 +13,16 @@
   12/13/25   HU5122A  14 F-150    VENEMAN, KALEB MI   1.0 N  18851.00    4964.76
   12/13/25    H7270B  13 TUCSON   THOMPSON, SAMUEL    1.0 N   9919.00    4865.95
   12/15/25     H7365  26 SANTA F  GEISZLER, STEVEN    1.0 N  49519.00    -149.00
- BO3421R                             CLARK HYUNDAI                           12/16/25  10:29:34
+  12/18/25    H7313A  24 SANTA F  VANDERHOOF, EMILY   1.0 N  38991.00    -369.49
+  12/19/25    HT7401  26 PALISAD  BAXTER, COLIN JAM   1.0 Y  49375.00    -490.50
+  12/20/25     H7390  26 SANTA F  KNUDSON-MELLOR, L   1.0 N  48659.00    -294.00
+  12/20/25     H7345  26 TUCSON   HOOPER, SCOTT WAY   1.0 N  43422.00    -780.00
+ BO3421R                             CLARK HYUNDAI                           12/22/25  12:37:42
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
  ==============================================================================================================
  BMU - BRANDON ULLOM                               Comm    No.       Avg      Total        Avg
  12/01/25 to             Units        Sales       Gross   Sales     Gross      Comm       Comm
- 12/16/25                 8.00    278243.00     2577.30      8     322.16
+ 12/22/25                10.00    310451.00     5203.17     10     520.32
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/03/25    HU5138  20 F-150    FORSYTHE, MISTY D   1.0 N  47207.00   -3747.65
@@ -27,14 +31,16 @@
   12/06/25     H7275  26 KONA     SOTO-VENEGAS, YAD   1.0 N  29321.00    -594.00
   12/08/25     H7388  26 TUCSON   GOMEZ-MURCIA, CAM   1.0 Y  35684.00    1151.00
   12/11/25    HU5157  24 PALISAD  CREAMER, JOHN MAR   1.0 N  39436.00    4031.70
-  12/11/25    H7261B  24 EQUINOX  STEDMAN, TERRY LE   1.0 N  28964.00    4349.10
   12/15/25    H7297A  21 CIVIC    ULLOM, COURTNEY L   1.0 N  21804.00   -1978.85
- BO3421R                             CLARK HYUNDAI                           12/16/25  10:29:34
+  12/16/25    H7261B  24 EQUINOX  STEDMAN, TERRY LE   1.0 N  28964.00    4349.10
+  12/19/25    H7320A  16 TUCSON   WEAVER, KATRINA F   1.0 Y  12887.00    2156.96
+  12/20/25    H7355A  25 ELANTRA  ULLOM, BRANDON MA   1.0 N  19321.00     468.91
+ BO3421R                             CLARK HYUNDAI                           12/22/25  12:37:42
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
  ==============================================================================================================
  JS - JOHN SQUIER                                  Comm    No.       Avg      Total        Avg
  12/01/25 to             Units        Sales       Gross   Sales     Gross      Comm       Comm
- 12/16/25                 5.00    193063.00    -1208.00      5    -241.60
+ 12/22/25                 5.00    193063.00    -1208.00      5    -241.60
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/03/25     H7314  26 KONA     KOSTER, DUSTIN CH   1.0 N  29185.00     270.00
@@ -42,12 +48,12 @@
   12/08/25     H7086  25 TUCSON   GRIFFIN, JABAR LE   1.0 N  34425.00   -1275.00
   12/11/25     H7253  25 TUCSON   HARTWIG, MARKUS D   1.0 N  34449.00   -1300.00
   12/13/25    HU5168  25 RAV4     SCHAURER, JACOB H   1.0 N  34328.00    -423.90
- BO3421R                             CLARK HYUNDAI                           12/16/25  10:29:34
+ BO3421R                             CLARK HYUNDAI                           12/22/25  12:37:42
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
  ==============================================================================================================
  PM - PARKER MCWHIRTER                             Comm    No.       Avg      Total        Avg
  12/01/25 to             Units        Sales       Gross   Sales     Gross      Comm       Comm
- 12/16/25                 5.50    222939.67    -4003.39      6    -667.23
+ 12/22/25                 5.50    272314.67    -4493.89      7    -641.98
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/01/25     H7327  25 SONATA   EDGE, KEITH WAYNE   1.0 N  37299.67   -1450.33
@@ -56,22 +62,23 @@
   12/05/25    H7261A  23 TRAVERS  LEINWAND, CAROL T   1.0 N  36304.00    -705.95
   12/15/25  H029059A  22 HIGHLAN  SPEAKMAN AGENCY,     .5 Y  33125.00    -576.80
   12/15/25    HT7402  26 SONATA   BALLARD, VASSAR D   1.0 N  32355.00    1449.00
- BO3421R                             CLARK HYUNDAI                           12/16/25  10:29:34
+  12/19/25    HT7401  26 PALISAD  BAXTER, COLIN JAM       Y  49375.00    -490.50
+ BO3421R                             CLARK HYUNDAI                           12/22/25  12:37:42
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
  ==============================================================================================================
  RVB - ROB VANDERBEEK                              Comm    No.       Avg      Total        Avg
  12/01/25 to             Units        Sales       Gross   Sales     Gross      Comm       Comm
- 12/16/25                 1.50     61235.00    -1025.80      2    -512.90
+ 12/22/25                 1.50     61235.00    -1025.80      2    -512.90
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/10/25     H7298  26 KONA     WEST, MCKENZEE KA   1.0 N  28110.00    -449.00
   12/15/25  H029059A  22 HIGHLAN  SPEAKMAN AGENCY,     .5 Y  33125.00    -576.80
- BO3421R                             CLARK HYUNDAI                           12/16/25  10:29:34
+ BO3421R                             CLARK HYUNDAI                           12/22/25  12:37:42
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
  ==============================================================================================================
  VN - VERONICA NEKRASSOFF                          Comm    No.       Avg      Total        Avg
  12/01/25 to             Units        Sales       Gross   Sales     Gross      Comm       Comm
- 12/16/25                 8.00    256949.91    10137.85      8    1267.23
+ 12/22/25                10.00    296806.91    17009.10     10    1700.91
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/01/25    H7213A  22 PALISAD  TURMAN, THERESE M   1.0 N  32503.00    -360.88
@@ -82,3 +89,5 @@
   12/13/25    HU5175  20 TACOMA   CUFFE, MATTHEW JA   1.0 N  37636.00    4763.75
   12/15/25    HU5177  15 SIERRA   HUMBERT, KATHERIN   1.0 N  39975.00    2520.03
   12/15/25     H7395  26 TUCSON   LEE, SHERRY LIVES   1.0 N  35937.00    -399.00
+  12/16/25    H7381A  18 EXPLORE  LELAND, CONNIE MA   1.0 N  21860.00    5358.76
+  12/19/25    HU5174  18 GRAND C  AULD, JAMESINA MO   1.0 N  17997.00    1512.49
