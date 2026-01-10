@@ -7,7 +7,7 @@
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
   12/06/25     H7275  26 KONA     SOTO-VENEGAS, YAD   1.0 N  29321.00    -594.00
-  12/08/25     H7388  26 TUCSON   GOMEZ-MURCIA, CAM   1.0 Y  35684.00    1151.00
+  12/08/25     H7388  26 TUCSON   GOMEZ-MURCIA, CAM   1.0 N  35684.00    1151.00
   12/30/25     H7341  26 KONA     TRACY, DONN ARTHU   1.0 N  35525.00      76.00
  BO3421R                             CLARK HYUNDAI                            1/01/26  13:42:16
  BMOHA46                                Salesperson Analysis Detail                                    Page   1
@@ -46,5 +46,5 @@
  12/31/25                 2.00     77254.00     -598.00      2    -299.00
     Date      Stock#  Model       Buyer               UC  S      Sale      Gross      Front      Back     Total
  ==============================================================================================================
-  12/29/25     H7319  26 KONA     GUFFEY, DAYNA COL   1.0 Y  29312.00    -449.00
+  12/29/25     H7319  26 KONA     GUFFEY, DAYNA COL   1.0 N  29312.00    -449.00
   12/31/25     H7409  26 SANTA F  RICH, SHADRICK DE   1.0 N  47942.00    -149.00
